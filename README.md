@@ -50,6 +50,6 @@ And the following command for tailwind to work:
 npm run watch
 ```
 
-Open Xampp sever and start apache and php server:
+Open Xampp server and start apache and php server:
 
 Visit `http://localhost:8000` to see the website.
